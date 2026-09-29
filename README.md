@@ -10,13 +10,13 @@
 
 # 💫 About Me
 
-I'm a **Software Engineer and Power Platform Developer** passionate about building modern business applications, automating processes, and creating digital solutions.
+I'm a **Software Engineer and Power Platform Developer** passionate about building modern digital solutions, business applications, process automation, and mobile/web applications.
 
-I develop **Power Apps applications and Power Automate workflows** for field operations, commercial management, customer tracking, approvals, data collection, and business process automation.
+I specialize in developing **Microsoft Power Apps applications and Power Automate workflows** for business process digitalization, field operations, commercial management, customer tracking, approvals, data collection, and reporting.
 
 I'm also experienced with **Flutter, React, Next.js, TypeScript, Supabase, SQL, and Power BI**, allowing me to build solutions across mobile, web, low-code, automation, and business intelligence.
 
-🚀 My focus is turning complex business requirements into **simple, scalable, user-friendly, and efficient digital solutions**.
+🚀 My goal is to transform complex business requirements into **simple, scalable, user-friendly, and efficient digital solutions**.
 
 ---
 
@@ -32,40 +32,40 @@ I'm also experienced with **Flutter, React, Next.js, TypeScript, Supabase, SQL, 
 
 # ⚡ Microsoft Power Platform
 
-My main professional focus is developing **business applications and automation solutions with Microsoft Power Platform**.
+My professional focus includes building **business applications, automation workflows, and business intelligence solutions** using Microsoft Power Platform.
 
 ### 🟣 Power Apps
 
-- Business applications
-- Field-sales applications
-- POS management
-- Customer management
-- Data collection
-- Commercial monitoring
-- Approval applications
-- Planning applications
-- GPS-based field activities
-- Role-based applications
+- 🏢 Business applications
+- 📍 Field-sales applications
+- 🏪 POS management
+- 👥 Customer management
+- 📝 Digital forms
+- 📊 Commercial monitoring
+- 📅 Planning applications
+- 🔄 Approval applications
+- 📍 GPS-based field activities
+- 🔐 Role-based applications
 
 ### 🔵 Power Automate
 
-- Approval workflows
-- Automated notifications
-- Email automation
-- PDF generation
-- Data synchronization
-- Business process automation
-- HTTP/API integrations
-- Multi-level validation workflows
+- 🔄 Approval workflows
+- 📧 Automated emails
+- 🔔 Notifications
+- 📄 PDF generation
+- 🗃️ Data synchronization
+- 🔗 HTTP / API integrations
+- 👥 Multi-level approvals
+- ⚙️ Business process automation
 
 ### 🟡 Power BI
 
-- Business dashboards
-- KPI monitoring
-- Commercial analysis
-- Performance reporting
-- Data visualization
-- Decision-support reports
+- 📊 Business dashboards
+- 📈 KPI monitoring
+- 💼 Commercial analysis
+- 📋 Performance reporting
+- 📊 Data visualization
+- 💡 Decision-support dashboards
 
 ### 🗃️ Data & Integration
 
@@ -84,9 +84,9 @@ My main professional focus is developing **business applications and automation 
 
 ## 📍 POS Check
 
-Power Apps solution designed to monitor field sales activities and POS/distributor visits.
+Field-sales and POS monitoring application developed with Microsoft Power Platform.
 
-**Technologies:**
+### Technologies
 
 `Power Apps` · `Power Fx` · `Power Automate` · `SharePoint` · `SQL`
 
@@ -105,21 +105,21 @@ Power Apps solution designed to monitor field sales activities and POS/distribut
 
 ## 📅 POS Check Plan
 
-Power Apps solution for managing field-sales planning and distributing activities across the sales hierarchy.
+Planning and activity assignment solution for field-sales teams.
 
-**Technologies:**
+### Technologies
 
 `Power Apps` · `Power Fx` · `Power Automate` · `Dataverse`
 
 ### Features
 
 - 👔 Sales hierarchy management
-- 📋 Planning and assignment
 - 👥 Supervisor management
 - 👤 Delegate management
-- 🔄 Automated notifications
-- 📊 Activity tracking
-- 📅 Field planning
+- 📅 Planning
+- 📋 Activity assignment
+- 🔔 Automated notifications
+- 📊 Activity monitoring
 
 ---
 
@@ -127,7 +127,7 @@ Power Apps solution for managing field-sales planning and distributing activitie
 
 Business application designed for collecting and analyzing market information.
 
-**Technologies:**
+### Technologies
 
 `Power Apps` · `Power Automate` · `SQL` · `Power BI`
 
@@ -135,7 +135,7 @@ Business application designed for collecting and analyzing market information.
 
 - 📝 Market data collection
 - 🏷️ Product and category management
-- 📊 Commercial analysis
+- 📊 Market analysis
 - 🔄 Automated data processing
 - 📈 Business reporting
 - 🗃️ Structured market data
@@ -144,9 +144,9 @@ Business application designed for collecting and analyzing market information.
 
 ## 🤝 COMPEX Client Check
 
-Power Apps solution for customer and client visit monitoring.
+Customer and field-visit monitoring application.
 
-**Technologies:**
+### Technologies
 
 `Power Apps` · `Power Automate` · `Power Fx`
 
@@ -165,7 +165,7 @@ Power Apps solution for customer and client visit monitoring.
 
 Digital workflow for managing commercial notes through a multi-level approval process.
 
-**Technologies:**
+### Technologies
 
 `Power Apps` · `Power Automate` · `SharePoint` · `Power Fx`
 
