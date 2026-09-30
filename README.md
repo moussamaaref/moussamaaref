@@ -190,6 +190,8 @@ INTÉGRÉ
 | **📍 FieldSight Pro** | Field operations & activity management | `TypeScript` | 🔒 Private |
 | **📚 The Book Nook** | Books & digital content platform | `TypeScript` | 🔒 Private |
 | **🎯 Incentive Ace Pro** | Incentives & performance management | `TypeScript` | 🔒 Private |
+| **📊 pos-analytics** | Rapport BI  ventes, stocks, produits et performances  | `TypeScript` | 🔒 Private |
+
 
 ### 🏢 AUREX — Highlights
 
